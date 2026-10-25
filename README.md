@@ -2,6 +2,9 @@
   <img src="https://cdn.phototourl.com/member/2026-10-25-53bda620-fff3-4b57-b2a6-fe6fe923c020.jpg" width="500">
 </p>
 <p align="center">
+  <img src="https://cdn.phototourl.com/member/2026-10-25-318b6c74-b6f1-47c0-b952-e0f51a655a6e.jpg" width="500">
+</p>
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Merriweather&size=41&duration=4000&pause=1000&color=FFBE79&center=true&vCenter=true&width=1000&lines=%CB%9A.*+%E2%80%9CWe'll+meet+again+at+some+corner+of+the+world%E2%80%9D+%E2%94%80" />
 </p>
 <p align="center">
