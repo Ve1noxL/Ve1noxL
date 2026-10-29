@@ -1,12 +1,5 @@
 <p align="center">
-  <img src="https://cdn.phototourl.com/member/2026-10-25-2031c865-8bf7-45b8-a6b8-e2c1204a3b26.jpg" width="500">
-</p>
-<p align="center">
-  <img src="https://cdn.phototourl.com/member/2026-10-25-318b6c74-b6f1-47c0-b952-e0f51a655a6e.jpg" width="500">
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Merriweather&size=41&duration=4000&pause=1000&color=FCB2A3&center=true&vCenter=true&width=1000&lines=A+little+appetite%E2%82%8D%E1%B4%96.+.%E1%B4%96%E2%82%8E+%E2%82%8A%CB%9A%E2%8A%B9%E2%99%A1" />
+  <img src="https://cdn.phototourl.com/member/2026-10-28-67979689-2176-46bf-a856-ded9b69c90c1.jpg" width="500">
 </p>
 
 <p align="center">
