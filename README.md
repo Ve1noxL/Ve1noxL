@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.phototourl.com/member/2026-10-28-67979689-2176-46bf-a856-ded9b69c90c1.jpg" width="500">
+  <img src="https://cdn.phototourl.com/member/2026-11-06-ff02a420-b9ac-4be3-ad58-eba9a485414e.jpg" width="500">
 </p>
 
 <p align="center">
