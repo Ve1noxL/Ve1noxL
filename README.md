@@ -8,3 +8,23 @@
 
 <img src="https://komarev.com/ghpvc/?username=Ve1noxL&amp;base=92&amp;color=C9B6E4&amp;style=For-the-badge-square&amp;label=PROFILE+VIEWS" />
 
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+<a href="https://nox.atabook.org/">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=E9DDF2&height=160&section=header&text=ɑȶɑɮօօƙ%20&fontSize=50&fontColor=80618F" width="100%" />
+</a>
+</td>
+
+<td align="center" width="50%">
+<a href="https://si0wnoxw.straw.page/">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=F3DFE5&height=160&section=header&text=srʀɑաքɑɢɛ&fontSize=50&fontColor=AD7488" width="100%" />
+</a>
+</td>
+</tr>
+</table>
+
+</div>
